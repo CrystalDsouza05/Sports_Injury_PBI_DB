@@ -1,6 +1,6 @@
 # ⚽ Sports Injuries Analysis Dashboard
 
-## Dashboard Link coming soon....
+## [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiZDY3NjY4NDctMmI2ZS00NzExLWJjOTAtNWViMDU0NWVmMDUxIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 ---
 ### This Power BI dashboard explores injury patterns in professional sports using a rich dataset of player demographics, injury types, locations, and treatment details. The project focuses on uncovering trends, identifying high-risk areas, and supporting better decision-making in injury prevention and recovery planning.
 ---
